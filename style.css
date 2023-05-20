@@ -1,0 +1,53 @@
+#div{
+    height: 60px;
+    background-color:blue;
+    font-weight: 700;
+   padding: 10px;
+}
+#div h1{
+    display: inline;
+}
+#in{
+    float: right;
+}
+#img{
+    width: 100%;
+}
+
+#start,#status{
+    font-size: large;
+}
+.ins{
+    width: 45%;
+    display: inline-block;
+
+}
+
+.modal-dialog{
+    width: 95%;
+}
+
+video{
+background-image:url("game_console-removebg-preview.png");
+background-size: cover;
+background-position: center;
+padding:25px;
+}
+
+#footer{
+    height: 50px;
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 0;
+    width: 100%;
+    background-color:blue;
+    font-size:25px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    color:red;
+}
+
+a{
+    color: red;
+}
